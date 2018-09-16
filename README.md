@@ -1,2 +1,2 @@
 # Athena
-An app designed around Housing and Apartments
+An ARKit Swift app allowing users to retrieve Zillow property data by pointing their camera at a building. 
